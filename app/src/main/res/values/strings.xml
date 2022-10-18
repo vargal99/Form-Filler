@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Urlap</string>
+    <string name="nev">Név</string>
+    <string name="jegy">Jegy</string>
+    <string name="teljesit">Program teljesítve</string>
+    <string name="urap">Feladat űrlap</string>
+    <string name="pont">Pont (50)</string>
+</resources>

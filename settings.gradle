@@ -1,0 +1,2 @@
+rootProject.name = "Urlap"
+include ':app'
